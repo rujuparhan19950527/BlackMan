@@ -1,0 +1,264 @@
+/* Manga AutoScraper Admin Styles */
+
+.mas-manual-scrape {
+    margin-top: 20px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.mas-manual-scrape h2 {
+    margin-top: 0;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+#mas-scrape-now {
+    margin-right: 10px;
+}
+
+.spinner {
+    float: none;
+    margin: 4px 10px;
+}
+
+#mas-scrape-status {
+    margin-top: 10px;
+}
+
+#mas-scrape-status .notice {
+    margin: 5px 0;
+}
+
+/* Form table styles */
+.form-table th {
+    width: 200px;
+}
+
+.form-table td {
+    padding: 15px 10px;
+}
+
+.form-table input[type="text"],
+.form-table input[type="password"],
+.form-table input[type="number"] {
+    width: 25em;
+    max-width: 100%;
+}
+
+.form-table select {
+    width: 25em;
+    max-width: 100%;
+}
+
+/* Source checkboxes */
+.form-table input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.form-table label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* Description text */
+.form-table .description {
+    color: #666;
+    font-style: italic;
+    margin: 5px 0 0;
+}
+
+/* Section headers */
+h2 {
+    margin: 30px 0 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Success/Error messages */
+.notice {
+    margin: 15px 0;
+    padding: 10px 15px;
+    border-left: 4px solid #fff;
+}
+
+.notice-success {
+    border-left-color: #46b450;
+    background: #ecf7ed;
+}
+
+.notice-error {
+    border-left-color: #dc3232;
+    background: #fbeaea;
+}
+
+/* Loading states */
+.is-active {
+    visibility: visible;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 782px) {
+    .form-table th {
+        width: auto;
+    }
+    
+    .form-table input[type="text"],
+    .form-table input[type="password"],
+    .form-table input[type="number"],
+    .form-table select {
+        width: 100%;
+    }
+}
+
+.manga-autoscraper-wrap {
+    margin: 20px;
+}
+
+.manga-autoscraper-wrap h1 {
+    margin-bottom: 20px;
+}
+
+.manga-autoscraper-wrap .form-table th {
+    width: 200px;
+}
+
+.manga-autoscraper-wrap .form-table td {
+    padding: 15px 10px;
+}
+
+.manga-autoscraper-wrap .form-table input[type="text"],
+.manga-autoscraper-wrap .form-table input[type="url"],
+.manga-autoscraper-wrap .form-table input[type="password"],
+.manga-autoscraper-wrap .form-table input[type="number"] {
+    width: 100%;
+    max-width: 400px;
+}
+
+.manga-autoscraper-wrap .sources-container {
+    margin-bottom: 10px;
+}
+
+.manga-autoscraper-wrap .source-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+}
+
+.manga-autoscraper-wrap .source-item input {
+    margin-right: 10px;
+}
+
+.manga-autoscraper-wrap .add-source {
+    margin-bottom: 20px;
+}
+
+.manga-autoscraper-wrap .remove-source {
+    color: #dc3232;
+}
+
+.manga-autoscraper-wrap .run-scraper-container {
+    margin-top: 20px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.manga-autoscraper-wrap .run-scraper-container h2 {
+    margin-top: 0;
+}
+
+.manga-autoscraper-wrap .spinner {
+    float: none;
+    margin: 4px 10px;
+}
+
+.manga-autoscraper-wrap .last-run,
+.manga-autoscraper-wrap .next-run {
+    margin: 10px 0;
+    font-style: italic;
+    color: #666;
+}
+
+.manga-autoscraper-wrap .submit {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.manga-autoscraper-status {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.manga-autoscraper-status h2 {
+    margin-top: 0;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.manga-autoscraper-status p {
+    margin: 10px 0;
+}
+
+.manga-autoscraper-status .status-success {
+    color: #46b450;
+}
+
+.manga-autoscraper-status .status-error {
+    color: #dc3232;
+}
+
+.manga-sources {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.source-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+}
+
+.source-item input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.form-table td {
+    padding: 15px 10px;
+}
+
+.form-table .description {
+    margin-top: 5px;
+    color: #666;
+}
+
+#run-scraper {
+    margin-top: 10px;
+}
+
+.spinner {
+    float: none;
+    margin: 4px 10px;
+    visibility: hidden;
+}
+
+.spinner.is-active {
+    visibility: visible;
+} 

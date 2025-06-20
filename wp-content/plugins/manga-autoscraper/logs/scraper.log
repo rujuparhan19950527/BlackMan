@@ -1,0 +1,21 @@
+$logger = new MAS_Logger();
+$logger->log_info('Test log entry');
+
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
+
+register_setting('mas_settings', 'mas_ftp_config');
+register_setting('mas_settings', 'mas_2captcha_key');
+register_setting('mas_settings', 'mas_schedule_interval');
+register_setting('mas_settings', 'mas_sources');
+
+echo '<pre>';
+print_r(get_option('mas_ftp_config'));
+print_r(get_option('mas_2captcha_key'));
+print_r(get_option('mas_schedule_interval'));
+print_r(get_option('mas_sources'));
+echo '</pre>';
+
+if (isset($_GET['settings-updated']) && $_GET['settings-updated']) {
+    echo '<div class="notice notice-success is-dismissible"><p>Settings saved.</p></div>';
+}

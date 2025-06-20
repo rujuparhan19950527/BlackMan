@@ -1,0 +1,52 @@
+[10-Jun-2025 10:39:16 UTC] [Manga Scraper] Starting scraper at 2025-06-10 10:39:16
+[10-Jun-2025 10:39:16 UTC] [Scraper] Processing Chapter 73: https://www.go-manga.com/im-not-kind-talent-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-73/
+[10-Jun-2025 10:39:16 UTC] [Scraper] Found 0 images for Chapter 73
+[10-Jun-2025 10:39:19 UTC] [Scraper] Processing Chapter 72: https://www.go-manga.com/im-not-kind-talent-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-72/
+[10-Jun-2025 10:39:19 UTC] [Scraper] Found 0 images for Chapter 72
+[10-Jun-2025 10:39:22 UTC] [Scraper] Processing Chapter 71: https://www.go-manga.com/im-not-kind-talent-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-71/
+[10-Jun-2025 10:39:22 UTC] [Scraper] Found 0 images for Chapter 71
+[10-Jun-2025 10:39:25 UTC] [Manga Scraper] Successfully scraped: I'm Not That Kind of Talent with 7 chapters
+[10-Jun-2025 10:39:25 UTC] [Manga Scraper] Duplicate manga exists: I'm Not That Kind of Talent (ID 866)
+[10-Jun-2025 10:39:25 UTC] [Manga Scraper] Post creation failed
+[10-Jun-2025 20:19:08 UTC] Automatic updates starting...
+[10-Jun-2025 20:19:08 UTC]   Automatic plugin updates starting...
+[10-Jun-2025 20:19:08 UTC]   Automatic plugin updates complete.
+[10-Jun-2025 20:19:09 UTC] Automatic updates complete.
+[19-Jun-2025 06:58:49 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:58:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:58:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:58:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:58:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:58:58 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:00 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:00 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:00 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:00 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:00 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 06:59:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:08:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:08:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:08:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:46 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:46 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:11:54 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:12:00 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'your_database_user'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:14:03 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\manga-neko\wp-includes\functions.php on line 6121
+[19-Jun-2025 07:14:52 UTC] Manga AutoScraper: Source URL is not set for scheduled scraping
+[19-Jun-2025 07:15:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:15:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:15:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:15:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:16:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:16:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:16:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:16:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:16:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
+[19-Jun-2025 07:16:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'sql_manga_neko_c'@'localhost' (using password: YES) in C:\xampp\htdocs\manga-neko\wp-includes\class-wpdb.php on line 1988
